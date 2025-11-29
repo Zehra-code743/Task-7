@@ -4,7 +4,7 @@ STEP 1 — Install Python (Required)
 
 Download Python from python.org → Downloads → Windows
 
-During installation, tick “Add to PATH”
+During installation, tick “Add to PATH”zz
 
 Verify installation in CMD/Terminal:
 
@@ -87,6 +87,6 @@ Test project commands:
 
 If all commands work, your environment is ready for Task 7 and project development.
 
-Reflection — Installation
+#Reflection — Installation
 
 The SPECKit Plus installation process was straightforward and well-structured. Installing Python and ensuring it was added to the system PATH helped me understand the importance of environment setup for CLI tools. Using pip to install SPECKit Plus and verifying it with specifyplus --help gave me confidence that the tool was ready to use. Creating a project folder and initializing a new project demonstrated how the CLI sets up the required project structure automatically.
