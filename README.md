@@ -1,4 +1,4 @@
-##SpecKit Plus Installation:
+## SPECKit Plus Installation
 
 # 1️⃣ Prerequisites: Python & Pip
 
